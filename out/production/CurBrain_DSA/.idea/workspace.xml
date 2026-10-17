@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d802cf36-59df-4203-8f1c-607f98e4f6dd" name="Changes" comment="Solved Q9_Week2">
+      <change afterPath="$PROJECT_DIR$/Q10.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;soumya1708&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/soumya1708/CUrBrain_SoumyaMondal&quot;,
+    &quot;accountId&quot;: &quot;8dd659f6-ea3d-4ce5-8852-8f548c3a85b7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3K7wrVXa8efT95RZogEUWqbbzp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Q8.executor": "Run",
+    "Application.Q9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d802cf36-59df-4203-8f1c-607f98e4f6dd" name="Changes" comment="" />
+      <created>1790922112724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790922112724</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Solved Q1_Week1">
+      <option name="closed" value="true" />
+      <created>1790928769828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790928769828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solved Q2_Week1">
+      <option name="closed" value="true" />
+      <created>1790930119609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790930119609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Solved Q3_Week1">
+      <option name="closed" value="true" />
+      <created>1790932275441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790932275441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solved Q4_Week1">
+      <option name="closed" value="true" />
+      <created>1790943319696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790943319696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solved Q5_Week1">
+      <option name="closed" value="true" />
+      <created>1790948289887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790948289887</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Solved Q6_Week1">
+      <option name="closed" value="true" />
+      <created>1790963165870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790963165870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Solved Q7_Week2">
+      <option name="closed" value="true" />
+      <created>1791294451253</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791294451253</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Solved Q8_Week2">
+      <option name="closed" value="true" />
+      <created>1791295692881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791295692882</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solved Q9_Week2">
+      <option name="closed" value="true" />
+      <created>1791298888693</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791298888693</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solved Q1_Week1" />
+    <MESSAGE value="Solved Q2_Week1" />
+    <MESSAGE value="Solved Q3_Week1" />
+    <MESSAGE value="Solved Q4_Week1" />
+    <MESSAGE value="Solved Q5_Week1" />
+    <MESSAGE value="Solved Q6_Week1" />
+    <MESSAGE value="Solved Q7_Week2" />
+    <MESSAGE value="Solved Q8_Week2" />
+    <MESSAGE value="Solved Q9_Week2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Q9_Week2" />
+  </component>
+</project>
